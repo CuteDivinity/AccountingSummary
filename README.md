@@ -1,2 +1,2 @@
-# SparkasseSummary
+# AccountingSummary
 Summarizes revenue from CSV export
